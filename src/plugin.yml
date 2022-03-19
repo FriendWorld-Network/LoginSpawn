@@ -1,0 +1,4 @@
+name: LoginSpawn
+version: 1.0
+author: VladTop46
+main: fwnet.loginspawn.main.main
